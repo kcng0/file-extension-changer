@@ -1,5 +1,5 @@
 Requirement:
-Needs to install Python with PyQt5 or download executable
+Need to install Python and PyQt5 or download executable
 
 Usage:
 Run the program. Drag and drop the file/folder to the executable. You can select on one specific file from 
