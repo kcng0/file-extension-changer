@@ -8,3 +8,6 @@ You can also clear the list by pressing "Clear" button.
 
 Enter the file extension you want to change to in the text box and press "Change" button in order to
 change all the file extensions from the file list.
+
+References:
+https://www.youtube.com/watch?v=KVEIW2htw0A&ab_channel=JieJenn for UI and drag and drop part
